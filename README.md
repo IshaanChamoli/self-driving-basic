@@ -1,5 +1,5 @@
 # Self-Driving Car Neural Network
 
-![Self-driving car simulation](self-driving.gif)
+<img src="self-driving.gif" width="400" alt="Self-driving car simulation">
 
 
